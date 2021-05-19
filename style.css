@@ -4,3 +4,12 @@ body .container{
     padding: 20px;
     border-style: none;
 }
+
+.navbar{
+    border-bottom: grey solid 1px;
+    border-top: grey solid 1px;
+}
+
+.breadcrumb{
+    font-size: 12px;
+}
