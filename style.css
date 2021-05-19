@@ -1,15 +1,32 @@
-*
+* 
 body .container{
     margin: 20px;
     padding: 20px;
     border-style: none;
 }
 
-.navbar{
-    border-bottom: grey solid 1px;
-    border-top: grey solid 1px;
-}
-
 .breadcrumb{
     font-size: 12px;
+}
+
+li.nav-item{
+    margin-top: 10;
+    margin-bottom: 10;
+    margin: 0px 35px;
+}
+
+li.list-group-item{
+    font-size: 16px;
+    border: none;
+}
+
+nav.navigation{
+    margin-top: 20px;
+    align-self: center;
+}
+
+svg{
+    margin-top: 2px;
+    margin-bottom: 4px;
+    color: yellow;
 }
