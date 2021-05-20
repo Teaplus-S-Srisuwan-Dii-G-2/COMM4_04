@@ -13,11 +13,11 @@ li.nav-item{
     margin-top: 10;
     margin-bottom: 10;
     margin: 0px 35px;
+    font-size: 27px;
 }
 
 li.list-group-item{
     font-size: 16px;
-    border: none;
     border: none;
 }
 
@@ -30,4 +30,41 @@ svg{
     margin-top: 2px;
     margin-bottom: 4px;
     color: yellow;
+}
+
+.page-item{
+    margin-top: 16px ;
+    margin-bottom: 45px;
+}
+
+nav{
+    margin-left: 28px;
+}
+
+h1{
+    display: inline;
+    margin-right: 10px;
+
+}
+
+.bi-facebook{
+    color: blue;
+    display: inline;
+    margin-right: 2px;
+}
+
+.bi-twitter{
+    color: cadetblue;
+    display: inline;
+    margin-right: 2px;
+}
+
+.bi-Pinterest{
+    margin-right: 2px;
+}
+
+.bi-google{
+    color: limegreen;
+    display: inline;
+    margin-right: 2px;
 }
